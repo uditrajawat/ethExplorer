@@ -16,7 +16,7 @@
 
 ### Notes
 
-<p>Notes are small components very helpful in inserting an additional piece of information.</p>
+<p>`clone this repo`.</p>
 
 
 
