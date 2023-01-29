@@ -4,13 +4,15 @@
 
 ### React 18 & Bootstrap 5 & Material Design 2.0 UI KIT
 
-`clone this repo`
+1)`clone this repo`
 <br>
-run
+2)run
 `npm install`
+to install dependencies
 <br>
-run 
+3)run 
 `npm start`
+to run deployment server
 
 
 
