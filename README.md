@@ -13,6 +13,8 @@ to install dependencies
 3)run 
 `npm start`
 to run deployment server
+4) To search block information use block seach 
+for transaction data use transaction hash and search.
 
 
 
